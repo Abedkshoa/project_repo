@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< initial_struct
 
 echo "[+] Checking Python installation..."
 if ! command -v python3 &>/dev/null; then
@@ -9,3 +10,6 @@ fi
 
 echo "[+] All requirements satisfied!"
 
+=======
+echo "Checking environment..."
+>>>>>>> main

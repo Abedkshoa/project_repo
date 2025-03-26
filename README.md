@@ -1,10 +1,9 @@
+<<<<<<< initial_struct
 # My Python Application
 
 ## 📌 Description
 This is a simple Python application that interacts with the user by greeting them and performing simulated computations.
 
-## 👥 Contributors
-- [Your GitHub Profile](https://github.com/YOUR_USERNAME)
 
 ## ✅ Task
 This project is part of a Git workflow practice. It includes:
@@ -18,3 +17,13 @@ This project is part of a Git workflow practice. It includes:
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
    cd YOUR_REPO
 
+=======
+# Project Name
+## Description
+This project is about python practice 
+## Links
+- [Contributors](#)
+- [Tasks](#)
+- [Installation](#)
+  - Follow these steps to install and run the project
+>>>>>>> main
