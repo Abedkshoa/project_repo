@@ -1,4 +1,4 @@
-<<<<<<< initial_struct
+
 # My Python Application
 
 ## 📌 Description
@@ -18,7 +18,7 @@ This project is part of a Git workflow practice. It includes:
    cd YOUR_REPO
 
 =======
-# Project Name
+# project_repo
 ## Description
 This project is about python practice 
 ## Links
@@ -26,4 +26,3 @@ This project is about python practice
 - [Tasks](#)
 - [Installation](#)
   - Follow these steps to install and run the project
->>>>>>> main
